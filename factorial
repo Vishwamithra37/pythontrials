@@ -1,0 +1,9 @@
+#factorial of a number by me
+def Factorial(numer):
+ if numer == 0:
+  return(1)
+ else:
+  return(numer * Factorial(numer-1))
+numer =float(input("enter the required number:\n"))
+print("Factorial of",numer,"is", Factorial(numer)) 
+

@@ -1,0 +1,5 @@
+#sum of numbers in an array
+def arrsum(n)
+ print(sum(n))
+rum[]=input("input the numbers with space:\n").split()
+arrsum(rum)

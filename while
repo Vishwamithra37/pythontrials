@@ -1,0 +1,4 @@
+rum = 9
+while(rum >= 5):
+  rum = rum-1
+  print ("Rum is rum duh:",rum)

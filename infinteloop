@@ -1,0 +1,7 @@
+var = 1
+while var == 1 :  # This constructs an infinite loop
+   num = input("Enter a number  :\n")
+   gem = input("veerappan is here duh!") 
+   print("You entered: ", num)
+   print("this is gem", gem)   
+print ("Good bye!")
